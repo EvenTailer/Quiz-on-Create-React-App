@@ -1,4 +1,4 @@
-# Quiz App – Train Your Reflexes & Knowledge
+# Quiz App – Train Your Knowledge
 
 A simple web-based quiz application built with **React** and **Create React App**.  
 Answer multiple-choice questions and test your knowledge. Easily customizable – just replace the data array in `src/data.jsx` with your own questions.
@@ -24,15 +24,16 @@ Clone the repository:
    cd Quiz-on-Creat-React-App
    Install dependencies:
 
-bash
-npm install
-Start the development server:
+    bash
+    npm install
+    Start the development server:
 
-bash
-npm start
-Open http://localhost:3000 in your browser.
+    bash
+    npm start
+    Open http://localhost:3000 in your browser.
 
-📝 Customization
+
+## 📝 Customization
 Questions and answers are stored in src/data.jsx.
 
 Edit the questions array to change the quiz content.
