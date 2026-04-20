@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quiz-on-Creat-React-App/static/css/main.2142152d.css",
+    "main.js": "/Quiz-on-Creat-React-App/static/js/main.63251e69.js",
+    "index.html": "/Quiz-on-Creat-React-App/index.html",
+    "main.2142152d.css.map": "/Quiz-on-Creat-React-App/static/css/main.2142152d.css.map",
+    "main.63251e69.js.map": "/Quiz-on-Creat-React-App/static/js/main.63251e69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2142152d.css",
+    "static/js/main.63251e69.js"
+  ]
+}
