@@ -6,7 +6,7 @@ Answer multiple-choice questions and test your knowledge. Easily customizable �
 ## 🚀 Live Demo
 
 Check out the live version here:  
-👉 [https://eventailer.github.io/Quiz-on-Creat-React-App/](https://eventailer.github.io/Quiz-on-Creat-React-App/)
+👉 [ https://eventailer.github.io/Quiz-on-Create-React-App/]( https://eventailer.github.io/Quiz-on-Create-React-App/)
 
 
 ## 🛠️ Technologies
